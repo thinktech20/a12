@@ -1,0 +1,10 @@
+# ai-arch local artifacts
+.venv/
+.env
+.env.local
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Databricks training content — local reference only, not for redistribution
+dbx-genai-course/
