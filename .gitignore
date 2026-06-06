@@ -6,5 +6,3 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Databricks training content — local reference only, not for redistribution
-dbx-genai-course/
